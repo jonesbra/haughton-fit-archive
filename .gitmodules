@@ -1,0 +1,6 @@
+[submodule "haughton-fit-frontend"]
+	path = haughton-fit-frontend
+	url = https://github.com/jonesbra/haughton-fit-frontend.git
+[submodule "haughton-fit-backend"]
+	path = haughton-fit-backend
+	url = https://github.com/jonesbra/haughton-fit-backend.git
